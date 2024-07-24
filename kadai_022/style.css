@@ -57,8 +57,12 @@ footer {
     text-align: center;
 }
 
-footer a:visited {
+footer a {
     color: rgb(255, 255, 255);
+}
+
+footer a:visited {
+    color: rgb(193, 234, 251);
 }
 
 footer a:hover {
